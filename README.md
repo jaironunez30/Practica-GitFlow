@@ -12,13 +12,15 @@
 ## 🎯 Tema del proyecto
 (Describir el tema elegido para la web: tienda, blog, portfolio, etc.)
 
+- Una página tipo wiki con temática de videojuegos
+
 ---
 
 ## 📁 Estructura del proyecto
 (Indicar qué páginas HTML habéis creado además del index.html)
 
 - index.html
-- 
+- plantilaJuego.html
 - 
 - 
 
@@ -37,9 +39,9 @@
 ## 👨‍💻 Contribución de cada miembro
 (Indicar qué ha hecho cada persona en el proyecto)
 
-- Nombre: 
-  - Features en las que ha trabajado:
-  - Archivos modificados:
+- Nombre: Alan 
+  - Features en las que ha trabajado: 21/04/2026
+  - Archivos modificados: plantillaJuego.html, plantillaJuego.css
 
 - Nombre: 
   - Features en las que ha trabajado:
