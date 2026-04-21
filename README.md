@@ -3,10 +3,10 @@
 ## 👥 Equipo
 (Indicar el nombre y apellidos de todos los miembros del equipo)
 
-- 
-- 
-- 
-- 
+- Jairo Núñez Nogueira
+- Pablo Pérez Lourés
+- Destiny Benson Imade
+- Alan Rodríguez Carrera
 
 ---
 
