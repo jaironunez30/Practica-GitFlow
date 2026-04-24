@@ -30,7 +30,7 @@
 (Lista todas las features desarrolladas en el proyecto)
 
 - feature/wiki-cs-html
-- feature/
+- feature/wiki-doom
 - feature/
 - feature/
 
@@ -47,6 +47,7 @@
 - Nombre: Alan
   - Features en las que ha trabajado: feature/wiki-doom
   - Archivos modificados: doom.html
+  ## hice un commit directamente a develop porque a esta hora nadie iba a revisar el pull request
 
 ---
 
