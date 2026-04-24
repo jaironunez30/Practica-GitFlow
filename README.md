@@ -21,15 +21,15 @@
 
 - index.html
 - plantilaJuego.html
-- 
-- 
+- counter-strike.html
+- doom.html
 
 ---
 
 ## 🧩 Funcionalidades implementadas (features)
 (Lista todas las features desarrolladas en el proyecto)
 
-- feature/
+- feature/wiki-cs-html
 - feature/
 - feature/
 - feature/
@@ -40,12 +40,13 @@
 (Indicar qué ha hecho cada persona en el proyecto)
 
 - Nombre: Alan 
-  - Features en las que ha trabajado: 21/04/2026
+  - Features en las que ha trabajado: feature/plantilla
   - Archivos modificados: plantillaJuego.html, plantillaJuego.css
 
-- Nombre: 
-  - Features en las que ha trabajado:
-  - Archivos modificados:
+
+- Nombre: Alan
+  - Features en las que ha trabajado: feature/wiki-doom
+  - Archivos modificados: doom.html
 
 ---
 
@@ -60,8 +61,8 @@ Versión: **v2.0.0**
 ## 🔗 Enlaces
 (Añadir los enlaces necesarios)
 
-- Repositorio GitHub: 
-- Tablero Trello: 
+- Repositorio GitHub: https://github.com/jaironunez30/Practica-GitFlow/
+- Tablero Trello: https://trello.com/b/C0kPcRVf/practica-de-contornos
 
 ---
 
